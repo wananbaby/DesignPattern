@@ -11,3 +11,8 @@ DesignPattern 是一个实现23种设计模式的代码库，全部用C++编写�
 * [singleton](https://github.com/youngyangyang04/DesignPattern/blob/master/singleton/README-singleton.md)
 * [state](https://github.com/youngyangyang04/DesignPattern/blob/master/state/README-state.md)
 * [strategy](https://github.com/youngyangyang04/DesignPattern/blob/master/strategy/README-strategy.md)
+
+
+
+
+啊哈哈哈哈哈
